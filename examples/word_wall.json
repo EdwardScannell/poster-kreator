@@ -1,0 +1,11 @@
+{
+  "page": {"width_in": 11, "height_in": 8.5, "dpi": 150},
+  "cells": [
+    {"content": {"kind": "text", "text": "photosynthesis"}, "fill": "#E8F4EA"},
+    {"content": {"kind": "text", "text": "Plants turn light, water and carbon dioxide into sugar and oxygen."}},
+    {"content": {"kind": "image", "path": "sun.png"}},
+    {"content": {"kind": "text", "text": "chlorophyll", "color": "#1B5E20"}, "fill": "#E8F4EA"},
+    {"content": {"kind": "text", "text": "The green pigment that catches the light."}},
+    {"content": {"kind": "text", "text": "Leaves breathe out oxygen.", "color": "#0D47A1"}}
+  ]
+}
